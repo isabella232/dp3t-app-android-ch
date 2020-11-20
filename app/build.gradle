@@ -25,7 +25,7 @@ android {
 		minSdkVersion 23
 		targetSdkVersion 30
 		versionCode 20010
-		versionName "2.0.1"
+		versionName "2.0.1" + readPropertyWithDefault("versionNoGaen", "+nogaen-dev")
 		resConfigs "en", "fr", "de", "it", "pt", "es", "sq", "bs", "hr", "sr", "rm", "tr", "ti"
 
 		buildConfigField "long", "BUILD_TIME", readPropertyWithDefault('buildTimestamp', System.currentTimeMillis()) + 'L'
