@@ -21,7 +21,7 @@ android {
 	compileSdkVersion 30
 
 	defaultConfig {
-		applicationId "ch.admin.bag.dp3t"
+		applicationId "ch.corona.tracing"
 		minSdkVersion 23
 		targetSdkVersion 30
 		versionCode 20010

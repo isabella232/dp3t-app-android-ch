@@ -613,7 +613,7 @@
     <!-- Inform Detail FAQ Text -->
     <string name="inform_detail_faq2_text">"ውልቃዊ ሓበሬታ ዘይኮነ፣ ጥራይ እቶም ግላውያን መፋትሕ እዮም ዝስደዱ።
 
-ተኽእሎ ናይ ምልከፍቲ ከምዘሎ እቶም ተጠቀምቲ ስዊስ ኮቪድ ኣፕ (SwissCovid App) ክፈልጡ ይኽእሉ።"</string>
+ተኽእሎ ናይ ምልከፍቲ ከምዘሎ እቶም ተጠቀምቲ ስዊስ ኮቪድ ኣፕ (LibreCHovid App) ክፈልጡ ይኽእሉ።"</string>
 
     <!-- Telefonnummer der Infoline -->
     <string name="infoline_tel_number">"+41 58 387 77 78"</string>
@@ -792,7 +792,7 @@
     <string name="tracing_active_tracking_always_info">"እቲ ኣፕ ዋላ እንተተዓጽወ ስዊስኮቪድ ይስርሕ እዩ።"</string>
 
     <!-- title in splash screen of onboarding -->
-    <string name="oboarding_splashscreen_title">"SwissCovid -
+    <string name="oboarding_splashscreen_title">"LibreCHovid -
 ኣብ ርከሳ ልበዳ ብቕልጡፍ ትሕበሩ።"</string>
     <string name="inform_detail_faq3_text">"ዋላኳ  ዝኾነ ሓበሬታ ብዛዕባኹም እንተዘይተሰደደ ዝኾነ ሰብ በቲ ዕለት ጌሩ ምርኻብኩም ክዝክሮ ይኽእል እዩ። "</string>
     <string name="inform_detail_faq3_title">"ስቱር ድዩ፧"</string>
@@ -827,7 +827,7 @@ Schwarzenburgstrasse 157
 3097 Liebefeld, Schweiz"</string>
 
     <!-- Onboarding Disclaimer Screen: App version title -->
-    <string name="onboarding_disclaimer_app_version">"SwissCovid App Version"</string>
+    <string name="onboarding_disclaimer_app_version">"LibreCHovid App Version"</string>
 
     <!-- Onboarding Disclaimer Screen: Release version title -->
     <string name="onboarding_disclaimer_release_version">"Release Date:"</string>
@@ -864,7 +864,7 @@ Schwarzenburgstrasse 157
 
     <!-- Meldungen Detail Kostenloser Test Box Text -->
     <!-- Fuzzy -->
-    <string name="meldungen_detail_free_test_text_old">"መምርሒ SwissCovid ብዛዕባ ኣማራጺ ነጻ ዝኾነ መርመራ ኮሮናቫይረስ ይሕብረኩም።"</string>
+    <string name="meldungen_detail_free_test_text_old">"መምርሒ LibreCHovid ብዛዕባ ኣማራጺ ነጻ ዝኾነ መርመራ ኮሮናቫይረስ ይሕብረኩም።"</string>
 
     <!-- Button title on the Home Screen when the Tracing is deactivated to directly activate it. -->
     <string name="activate_tracing_button">"ንትራይሲንግ(Tracing) ምውላዕ"</string>
@@ -897,7 +897,7 @@ Schwarzenburgstrasse 157
     <string name="travel_title">"መገሻታት"</string>
 
     <!-- Info text that is displayed  on the Home Travel Card. -->
-    <string name="travel_home_description">"ምርኽኻብ SwissCovid ኣብ ዝስዕቡ ሃገራት ይሰርሕ፥"</string>
+    <string name="travel_home_description">"ምርኽኻብ LibreCHovid ኣብ ዝስዕቡ ሃገራት ይሰርሕ፥"</string>
 
     <!-- First title for the travel feauter explenation at the bottom of the travel screen. -->
     <string name="travel_screen_explanation_title_1">"እዚ እንታይ ማለት፧"</string>
@@ -905,7 +905,7 @@ Schwarzenburgstrasse 157
     <!-- First text for the travel feauter explenation at the bottom of the travel screen. -->
     <string name="travel_screen_explanation_text_1">"ንስኹም ኣብ ሓደ ካብቶም ተቓደውቲ ሃገራት እንተትግዕዙ ኮይንኩም፣ ንምርኽኻብሲ ካልእ ኮሮና ኤፕ ከተምጽኡ ኣየድልየኩምን።
 
-SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገሑ ግላውያን መፋትሕ ይቈጻጸር። ንስኹም ዋላ ኣብ ክፍጸም ዝኽእል ልበዳ ኣብ ወጻኢ ክትጥንቐቑ ትኽእሉ ኢኹም።"</string>
+LibreCHovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገሑ ግላውያን መፋትሕ ይቈጻጸር። ንስኹም ዋላ ኣብ ክፍጸም ዝኽእል ልበዳ ኣብ ወጻኢ ክትጥንቐቑ ትኽእሉ ኢኹም።"</string>
 
     <!-- Second title for the travel feauter explenation at the bottom of the travel screen. -->
     <string name="travel_screen_explanation_title_2">"ኣብ ምእታው ኮቪድኮድ እንታይ ክፍጸም ድዩ፧"</string>
@@ -929,9 +929,9 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
 
     <!-- Text beim Bluetooth Control iOS 14 -->
     <string name="tracing_setting_text_ios_14_0">"Exposure Notifications"</string>
-    <string name="bottom_nav_tab_home">"SwissCovid"</string>
+    <string name="bottom_nav_tab_home">"LibreCHovid"</string>
     <string name="bottom_nav_tab_stats">"ቁጽርታት"</string>
-    <string name="stats_title">"ድሮ ንSwissCovid ይጥቐሙሉ እዮም"</string>
+    <string name="stats_title">"ድሮ ንLibreCHovid ይጥቐሙሉ እዮም"</string>
     <string name="stats_legend_new_infections">"ዝተሓበሩ ሓድሽቲ ልበዳታት"</string>
     <string name="stats_legend_new_infections_average">"ናይ 7 መዓልቲ ገምጋም"</string>
     <string name="stats_legend_entered_covidcodes">"ዝተመዝገቡ ናይ ኮቪድ ኮዳት"</string>
@@ -986,7 +986,7 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <string name="ios_settings_tutorial_step_3_share_exposure_information">"ናይ መራኸቢ  ሓበሬታ ምኽፋል"</string>
 
     <!-- iOS settings tutorial schritt 4 -->
-    <string name="ios_settings_tutorial_step_4_text">"ክሳብ ሕጂ እንተዘይተገብረ SwissCovid ከም ንጡፍ ቦታ ክትመርጹ ትኽእሉ ኢኹም።"</string>
+    <string name="ios_settings_tutorial_step_4_text">"ክሳብ ሕጂ እንተዘይተገብረ LibreCHovid ከም ንጡፍ ቦታ ክትመርጹ ትኽእሉ ኢኹም።"</string>
 
     <!-- iOS settings tutorial set as aktive region wie in iOS settings -->
     <string name="ios_settings_tutorial_step_4_set_as_aktive_region">"ከም ንጡፍ ቦታ ምምራጽ"</string>
@@ -1006,37 +1006,37 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <!-- Button Titel im Meldung Detail Header, wenn alle Meldungen angezeigt werden. -->
     <string name="meldung_detail_exposed_show_less_button">"ዝወሓደ ምርኣይ"</string>
 
-    <!-- Titel vom SwissCovid Leitfaden bei Kontaktmeldung -->
-    <string name="meldungen_detail_leitfaden_title">"መምርሒ SwissCovid"</string>
+    <!-- Titel vom LibreCHovid Leitfaden bei Kontaktmeldung -->
+    <string name="meldungen_detail_leitfaden_title">"መምርሒ LibreCHovid"</string>
 
-    <!-- Text zum SwissCovid Leitfaden bei Kontaktmeldung -->
-    <string name="meldungen_detail_leitfaden_text">"ነቶም ኣብ መምርሒ SwissCovid ዘለው ሕቶታት መልሱ ኢኹም፣ ቅኑዕ መልሲ ከመይ ጌርኩም ከምትህቡ መታን ክትፈልጡ።"</string>
+    <!-- Text zum LibreCHovid Leitfaden bei Kontaktmeldung -->
+    <string name="meldungen_detail_leitfaden_text">"ነቶም ኣብ መምርሒ LibreCHovid ዘለው ሕቶታት መልሱ ኢኹም፣ ቅኑዕ መልሲ ከመይ ጌርኩም ከምትህቡ መታን ክትፈልጡ።"</string>
 
-    <!-- Button Text zum Öffnen vom SwissCovid Leitfaden -->
+    <!-- Button Text zum Öffnen vom LibreCHovid Leitfaden -->
     <string name="meldungen_detail_open_leitfaden_button">"ሕጂ ምምላእ"</string>
 
-    <!-- Title für Infotext zu SwissCovid Infoline -->
+    <!-- Title für Infotext zu LibreCHovid Infoline -->
     <string name="meldungen_tel_information_title">"ሓበሬታ ብተሌፎን"</string>
 
-    <!-- Infotext zu SwissCovid Infoline -->
-    <string name="meldungen_tel_information_text">"ኣብ ቀጸልቲ ሕቶታት ኢንፎላይን SwissCovid ዋላ ብተሌፎን ሓበሬታ ይህበኩም።"</string>
+    <!-- Infotext zu LibreCHovid Infoline -->
+    <string name="meldungen_tel_information_text">"ኣብ ቀጸልቲ ሕቶታት ኢንፎላይን LibreCHovid ዋላ ብተሌፎን ሓበሬታ ይህበኩም።"</string>
 
-    <!-- Hinweis Text nach dem Ausfüllen vom SwissCovid Leitfaden, dass man erneut ausfüllen kann -->
-    <string name="meldungen_detail_leitfaden_again_text">"ንመምርሒ SwissCovid ኣብዚ ኩሉ ግዜ ብሓድሽ ክትከፍትዎ ትኽእሉ።"</string>
+    <!-- Hinweis Text nach dem Ausfüllen vom LibreCHovid Leitfaden, dass man erneut ausfüllen kann -->
+    <string name="meldungen_detail_leitfaden_again_text">"ንመምርሒ LibreCHovid ኣብዚ ኩሉ ግዜ ብሓድሽ ክትከፍትዎ ትኽእሉ።"</string>
 
-    <!-- Button Text um SwissCovid Leitfaden erneut zu öffnen -->
+    <!-- Button Text um LibreCHovid Leitfaden erneut zu öffnen -->
     <string name="meldungen_detail_open_leitfaden_again_button">"ናብቲ መምርሒ"</string>
 
-    <!-- Homescreen Text mit Hinweis zu SwissCovid Leitfaden bei einer Meldung -->
+    <!-- Homescreen Text mit Hinweis zu LibreCHovid Leitfaden bei einer Meldung -->
     <string name="exposed_info_answer_questions_in_leitfaden">"ሕቶታት መልሱ ኢኹም ኣብ"</string>
 
-    <!-- Homescreen Text mit Hinweis zu SwissCovid Leitfaden bei einer Meldung -->
-    <string name="exposed_info_swisscovid_leitfaden">"መምርሒ SwissCovid"</string>
+    <!-- Homescreen Text mit Hinweis zu LibreCHovid Leitfaden bei einer Meldung -->
+    <string name="exposed_info_swisscovid_leitfaden">"መምርሒ LibreCHovid"</string>
 
     <!-- Dialog Text beim Löschen einer Meldung über einen möglichen Kontakt -->
-    <string name="delete_notification_dialog">"መልእኽቲ ብዛዕባ ክፍጸም ዝከኣል ልበዳ ከም መረጋገጺ እዩ ዝኸውን፣ ንሱ ሽዑ ንነጻ ዝኾነ መርመራ ኮሮናቫይረስ ከድልየኩም እዩ። እዚ መልእኽቲ እንድሕር ትድምስስዎ ኮይንኩም፣ እዚ መረጋገጺ ምስቲ ሊንክ/ሓበሬታ መርበብ ንመምርሒ SwissCovid ከተጥፍእዎ ኢኹም።"</string>
+    <string name="delete_notification_dialog">"መልእኽቲ ብዛዕባ ክፍጸም ዝከኣል ልበዳ ከም መረጋገጺ እዩ ዝኸውን፣ ንሱ ሽዑ ንነጻ ዝኾነ መርመራ ኮሮናቫይረስ ከድልየኩም እዩ። እዚ መልእኽቲ እንድሕር ትድምስስዎ ኮይንኩም፣ እዚ መረጋገጺ ምስቲ ሊንክ/ሓበሬታ መርበብ ንመምርሒ LibreCHovid ከተጥፍእዎ ኢኹም።"</string>
 
-    <!-- URL to the SwissCovid Leitfaden -->
+    <!-- URL to the LibreCHovid Leitfaden -->
     <string name="swisscovid_leitfaden_url">"https://swisscovid.foph-coronavirus.ch/screening?contactDates={CONTACT_DATES}"</string>
 
     <!-- Tracing Erinnerung 4 Stunden Radio Button -->
@@ -1061,7 +1061,7 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <string name="tracing_reminder_title">"መዘኻኸሪ ምውላዕ"</string>
 
     <!-- Tracing Erinnerung Untertitel -->
-    <string name="tracing_reminder_subtitle">"SwissCovid እቲ ምክትታል ክውላዕ ከምዘለዎ ከዘክረኩም ይኽእል።"</string>
+    <string name="tracing_reminder_subtitle">"LibreCHovid እቲ ምክትታል ክውላዕ ከምዘለዎ ከዘክረኩም ይኽእል።"</string>
 
     <!-- Tracing Erinnerung Warnung -->
     <string name="tracing_reminder_warning">"እቲ ምክትታል ክጠፍእ እዩ።"</string>
@@ -1166,7 +1166,7 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <string name="ios_software_update_blocking_title">"ምምሕዳስ ሶፍትዌር የድሊ'ዩ"</string>
 
     <!-- iOS Blockierende View bei benötigten OS update: text -->
-    <string name="ios_software_update_blocking_text">"SwissCovid መታን ክሰርሕ እቲ ዝሓደሸ መርገጽ iOS ክትተኽሉ ኣለኩም።"</string>
+    <string name="ios_software_update_blocking_text">"LibreCHovid መታን ክሰርሕ እቲ ዝሓደሸ መርገጽ iOS ክትተኽሉ ኣለኩም።"</string>
 
     <!-- iOS Blockierende View bei benötigten OS update: Tutorial title -->
     <string name="ios_software_update_blocking_tutorial_title">"ከምዚ እዩ ዝሰርሕ፥"</string>
@@ -1202,7 +1202,7 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <string name="ios_software_update_notification_title">"ምምሕዳስ ሶፍትዌር የድሊ'ዩ"</string>
 
     <!-- iOS Notification Text bei benötigten OS update -->
-    <string name="ios_software_update_notification_text">"SwissCovid መታን ክሰርሕ እቲ ዝሓደሸ መርገጽ iOS ክትተኽሉ ኣለኩም።"</string>
+    <string name="ios_software_update_notification_text">"LibreCHovid መታን ክሰርሕ እቲ ዝሓደሸ መርገጽ iOS ክትተኽሉ ኣለኩም።"</string>
 
     <!-- Button Text um die Isolation zu beenden -->
     <string name="delete_infection_dialog_finish_button">"ተዛዘመ"</string>
@@ -1277,7 +1277,7 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <string name="stats_info_popup_subtitle_cases">"መጠን ልበዳታት"</string>
 
     <!-- Beschreibung der "Total eingegebene Covidcodes" Statistik -->
-    <string name="stats_covidcodes_total_description">"መጠን ናይቶም ዝተኣተዉ ኮቪድ-ኮዳት ካብ መጀመርታ SwissCovid App ኣብ ሰነ 2020። ክንድቲ ብዙሕ ሰባት በቲ ኤፕ ርክቦም ብሓደ ክፍጸም ዝኽእል ልበዳ ሓቢሮም ኔሮም።"</string>
+    <string name="stats_covidcodes_total_description">"መጠን ናይቶም ዝተኣተዉ ኮቪድ-ኮዳት ካብ መጀመርታ LibreCHovid App ኣብ ሰነ 2020። ክንድቲ ብዙሕ ሰባት በቲ ኤፕ ርክቦም ብሓደ ክፍጸም ዝኽእል ልበዳ ሓቢሮም ኔሮም።"</string>
 
     <!-- Beschreibung der "Innert 0-2 Tagen eingegebene Covidcodes" Statistik -->
     <string name="stats_covidcodes_0to2days_description">"መጠን ኣብ ውሽጢ ቀዳሞት ክልተኦም መዓልትታት ድሕሪ መጀመርታ ምልክታት ድሮ ዝተኣተዉ ዝነበሩ። እዚ መጠን ንዝሓለፉ 7 መዓልትታት ይምልከት።
@@ -1316,7 +1316,7 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <string name="answer_no">"ኣይፋል"</string>
 
     <!-- Text in der Infobox auf dem Reisen-Screen -->
-    <string name="travel_screen_info">"ኣብ ወጻኢ ምግዓዝ፧ ኣብዚኦም ሃገራት ምርኽኻብ SwissCovid ይሰርሕ እዩ።"</string>
+    <string name="travel_screen_info">"ኣብ ወጻኢ ምግዓዝ፧ ኣብዚኦም ሃገራት ምርኽኻብ LibreCHovid ይሰርሕ እዩ።"</string>
 
     <!-- Überschrift der Liste der kompatiblen Länder auf dem Reisen-Screen -->
     <string name="travel_screen_compatible_countries">"ተቓደውቲ ሃገራት፥"</string>
@@ -1353,10 +1353,10 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <string name="inform_tracing_enabled_explanation">"ኣብ ምእታው ኮቪድ-ኮድ እቲ ምክትታል ክውላዕ ኣለዎ፣ ግላዊ መፍትሕኩም ክካፈል መታን ክከኣል።"</string>
 
     <!-- Leitfaden Info Popup Text -->
-    <string name="leitfaden_infopopup_text">"መጠወቒ \"{BUTTON_TITLE}\" ትጥውቕዎ እንተኾይንኩም፣ ካብቲ ኤፕ ትወጽኡ ከምኡ'ውን ናብቲ መርበብ ኢንተርነት መምርሒ SwissCovid ክትቕይሩ። ሽዑ ሓበሬታ/ዳታ ናይ ተፈጺሞም ዝኾኑ ልበዳታት ናይቲ ዝሓለፈ ምርኽኻብ ካብቲ መርበብ ኢንተርነት እንተላይ ይስደዱ።"</string>
+    <string name="leitfaden_infopopup_text">"መጠወቒ \"{BUTTON_TITLE}\" ትጥውቕዎ እንተኾይንኩም፣ ካብቲ ኤፕ ትወጽኡ ከምኡ'ውን ናብቲ መርበብ ኢንተርነት መምርሒ LibreCHovid ክትቕይሩ። ሽዑ ሓበሬታ/ዳታ ናይ ተፈጺሞም ዝኾኑ ልበዳታት ናይቲ ዝሓለፈ ምርኽኻብ ካብቲ መርበብ ኢንተርነት እንተላይ ይስደዱ።"</string>
 
     <!-- Leitfaden InfoPopup Titel -->
-    <string name="leitfaden_infopopup_title">"ሓበሬታ መምርሒ SwissCovid"</string>
+    <string name="leitfaden_infopopup_title">"ሓበሬታ መምርሒ LibreCHovid"</string>
 
     <!-- Update Boarding: Titel -->
     <string name="germany_update_boarding_title">"ምስ ጀርመን ዝሰማማዕ "</string>
@@ -1365,7 +1365,7 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <string name="germany_update_boarding_text">"ዋላ ምስ ናይ መጠንቀቕታ ኮሮና ኤፕ ዝጥቐምን ድሓር ፖዚቲቭ ዝተመርመረን ሰብ ምርኽኻብ እንተነበረኩም ንስኹም ዋላ ክትሕበሩ ኢኹም። ሽዑ እቶም ናይ ኣጠቓቕማ ኩነታት ከምኡ'ውን ስምምዕ ምክልኻል ዳታ ክሕደሱ እዮም።"</string>
 
     <!-- Update Boarding: Heading oben -->
-    <string name="germany_update_boarding_heading">"ምምሕዳስ SwissCovid"</string>
+    <string name="germany_update_boarding_heading">"ምምሕዳስ LibreCHovid"</string>
 
     <!-- Debug Screen: Update-Boarding Reset Button -->
     <string name="reset_update_boarding">"Reset update boarding"</string>
@@ -1485,7 +1485,7 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <string name="empty_diary_text">"ናይ ስዊዝ ኮቪድ ኮድ QR ኣብቲ ቦታ ንክትኣትዉ ስከን እንተገበርክኩም፣ ኣውቶማቲካሊ መዝገብ ክዕቀብ እዩ።"</string>
 
     <!-- Check-Ins: Kamera Erlaubnis Text -->
-    <string name="camera_permission_dialog_text">"SwissCovid ምምርኽኻብ ምስ ካመራ ኣብ መሳርሒኹም የድሊ። እታ ካሜራ ጥራይ ኮድ QR ስኬን ንምግባር ትጥቀም እያ።"</string>
+    <string name="camera_permission_dialog_text">"LibreCHovid ምምርኽኻብ ምስ ካመራ ኣብ መሳርሒኹም የድሊ። እታ ካሜራ ጥራይ ኮድ QR ስኬን ንምግባር ትጥቀም እያ።"</string>
 
     <!-- Check-Ins: Button Titel, welcher in einem Popup erscheint um die Camera Permission Abfrage zu erklären -->
     <string name="camera_permission_dialog_action">"መርከቢ ካመራ ምፍቓድ"</string>
@@ -1529,7 +1529,7 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <string name="checkin_ended_text">"ሕጂ Check-in ዝከኣል ኣይኮነን"</string>
 
     <!-- Text im Check-Ins-Screen im nicht eingecheckten Zustand -->
-    <string name="checkin_detail_checked_out_text">"ሓደ ናይ SwissCovid QR ኮድ ስከን ግበሩ ኣብቲ ቦታ ምእንቲ ብቸክ-ኢን ክትኣትው።"</string>
+    <string name="checkin_detail_checked_out_text">"ሓደ ናይ LibreCHovid QR ኮድ ስከን ግበሩ ኣብቲ ቦታ ምእንቲ ብቸክ-ኢን ክትኣትው።"</string>
 
     <!-- Text im Check-Ins-Screen, im Tagebuch-Modul -->
     <string name="checkin_detail_diary_text">"ናይ ስዊዝ ኮቪድ ኮድ QR ኣብቲ ቦታ ንክትኣትዉ ስከን እንተገበርክኩም፣ ኣብዚ ኣውቶማቲካሊ መዝገብ ክዕቀብ እዩ።"</string>
@@ -1552,7 +1552,7 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <string name="print_button_title">"ፕሪንት ምግባር"</string>
 
     <!-- Check-Ins: Beschreibung Modul auf Homescreen -->
-    <string name="module_checkins_description">"ሓደ ናይ SwissCovid QR ኮድ ስከን ግበሩ ኣብቲ ቦታ ምእንቲ ብቸክ-ኢን ክትኣትው።"</string>
+    <string name="module_checkins_description">"ሓደ ናይ LibreCHovid QR ኮድ ስከን ግበሩ ኣብቲ ቦታ ምእንቲ ብቸክ-ኢን ክትኣትው።"</string>
 
     <!-- Titel im "Covidcode flow", wo man check ins wählen kann, welche geshared werden sollen. -->
     <string name="inform_share_checkins_title">"ቸክ-ኢን መዝገበኣት ምክፍፋል"</string>
@@ -1565,7 +1565,7 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <string name="inform_dont_send_button_title">"ኣይትስደድ"</string>
     <string name="inform_dont_share_button_title">"ዘይምክፍፋል"</string>
     <string name="inform_really_not_share_title">"ናይ ብሓቂ ብዘይ ምክፍፋል፧"</string>
-    <string name="inform_really_not_share_subtitle">"ምክፍፋል ግላውያን መፋትሕኩም ን«SwissCovid» ይሕግዝ፣ ኣብ ምሕባር ናብ ካልእ ተለቢዶም ዝኾኑ ሰባት ከምኡ ድማ ቀጻሊ ምዝርጋሕ እዚ ቫይረስ ንክውገድ። ምክፍፋል ግላውያን መፋትሕኩም ዘይትገብሩ እንተኾይንኩም፣ ተለቢዶም ዝኾኑ ሰባት ኣይክሕበሩን እዮም።"</string>
+    <string name="inform_really_not_share_subtitle">"ምክፍፋል ግላውያን መፋትሕኩም ን«LibreCHovid» ይሕግዝ፣ ኣብ ምሕባር ናብ ካልእ ተለቢዶም ዝኾኑ ሰባት ከምኡ ድማ ቀጻሊ ምዝርጋሕ እዚ ቫይረስ ንክውገድ። ምክፍፋል ግላውያን መፋትሕኩም ዘይትገብሩ እንተኾይንኩም፣ ተለቢዶም ዝኾኑ ሰባት ኣይክሕበሩን እዮም።"</string>
 
     <!-- Remove from Diary Warning view title -->
     <string name="remove_diary_warning_title">"መዝገብ ምድምሳስ"</string>
@@ -1592,7 +1592,7 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <string name="checkin_overview_isolation_text">"ፖዚቲቭ ቸክ-ኢን እንድሕር ጌርኩም፣ ክትኣትዉ ኣይትኽእሉን ኢኹም።"</string>
 
     <!-- Veranstaltungen-Card Text im Infotab -->
-    <string name="events_card_subtitle">"ኮድ QR SwissCovid ምስፈጠርካዮ ብእኡ ሰባት ኣብቲ ቦታ ክኣትዉ ይኽእሉ።"</string>
+    <string name="events_card_subtitle">"ኮድ QR LibreCHovid ምስፈጠርካዮ ብእኡ ሰባት ኣብቲ ቦታ ክኣትዉ ይኽእሉ።"</string>
 
     <!-- Dialog Text beim Löschen eines erstellten QR Codes. -->
     <string name="delete_qr_code_dialog">"ነቲ ኮድ QR ናይብሓቂ ክትድምስሱዎ ደሊኹም ዶ፧ ዝተሓተሙ ኮዳት QR ቀጺሎም ብቑዓት እዮም።"</string>
@@ -1601,7 +1601,7 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <string name="self_checkin_button_title">"ባዕልኻ እትገብር ቸክ-ኢን"</string>
 
     <!-- Text, welcher im Checkin-Overview Screen erscheint, wenn der Benutzer nicht eingecheckt ist. -->
-    <string name="checkin_overview_checkins_explanation">"ሓደ ናይ SwissCovid QR ኮድ ስከን ግበሩ ኣብቲ ቦታ ምእንቲ ብቸክ-ኢን ክትኣትው።"</string>
+    <string name="checkin_overview_checkins_explanation">"ሓደ ናይ LibreCHovid QR ኮድ ስከን ግበሩ ኣብቲ ቦታ ምእንቲ ብቸክ-ኢን ክትኣትው።"</string>
 
     <!-- Popup Titel wenn beim Checkout oder Editieren von CheckIns sich die neu gewählte Zeit mit vorhandenen aus dem Tagebuch überschneidet -->
     <string name="checkout_overlapping_alert_title">"ምዕቃብ ዝከኣል ኣይኮነን"</string>
@@ -1612,19 +1612,19 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <!-- Informieren: Danke Text Checkins Teil -->
     <string name="inform_send_thankyou_text_checkins">"ዝመረጽኩሞም ቸክ-ኢን ተሰዲዶም ኔሮም። ኣብ ማዕረ ግዜ ኣብ ሽዑ ቦታ ኣትዮም ዝነበሩ ሰባት ክሕበሩ እዮም።"</string>
 
-    <!-- SwissCovid QR Code PDF: Headline über dem Slogan -->
-    <string name="pdf_headline">"SwissCovid-Check-in"</string>
+    <!-- LibreCHovid QR Code PDF: Headline über dem Slogan -->
+    <string name="pdf_headline">"LibreCHovid-Check-in"</string>
 
-    <!-- SwissCovid QR Code PDF: Slogan -->
+    <!-- LibreCHovid QR Code PDF: Slogan -->
     <string name="pdf_slogan">"ምእታው ብዘይ ምግዳፍ ሓበሬታ/ዳታ"</string>
 
-    <!-- SwissCovid QR Code PDF: Erklärungstext unter dem Slogan -->
-    <string name="pdf_explanation">"ምስቲ ናይ SwissCovid ኤፕ ኣባና ብቐሊል ብቸክ-ኢን ክትኣትዉ ትኽእሉ ሓበሬታይ ብዘይምግዳፍ። ኩነተ ርከሳ እንተሎ በቲ ኤፕ ቀልጢፍኩም ክትሕበሩ ኢኹም።"</string>
+    <!-- LibreCHovid QR Code PDF: Erklärungstext unter dem Slogan -->
+    <string name="pdf_explanation">"ምስቲ ናይ LibreCHovid ኤፕ ኣባና ብቐሊል ብቸክ-ኢን ክትኣትዉ ትኽእሉ ሓበሬታይ ብዘይምግዳፍ። ኩነተ ርከሳ እንተሎ በቲ ኤፕ ቀልጢፍኩም ክትሕበሩ ኢኹም።"</string>
 
-    <!-- SwissCovid QR Code PDF: App Bezeichnung neben dem App Icon -->
-    <string name="pdf_swisscovid_app">"ኤፕ SwissCovid"</string>
+    <!-- LibreCHovid QR Code PDF: App Bezeichnung neben dem App Icon -->
+    <string name="pdf_swisscovid_app">"ኤፕ LibreCHovid"</string>
 
-    <!-- SwissCovid QR Code PDF: Download Hinweis neben dem App Icon -->
+    <!-- LibreCHovid QR Code PDF: Download Hinweis neben dem App Icon -->
     <string name="pdf_download_app">"ሕጂ ምምጻእ ብዳውንሎድ"</string>
 
     <!-- Title im Check-Ins-Screen im nicht eingecheckten Zustand -->
@@ -1640,13 +1640,13 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <!-- Titel auf der Card, welche zum Screen führt, wo man eigene QR Codes erstellen kann. -->
     <string name="events_card_title">"ኮዳት QR ብሓድሽ ክትፈጥሩ ደሊኹም፧"</string>
     <string name="checkin_footer_title1">"ስለምንታይ ናይ ቸክ-ኢን ኣገባብ፧"</string>
-    <string name="checkin_footer_subtitle1">"ናይ ቸክ-ኢን ኣገባብ ብዘይ ምሓዝ ሓበሬታ ርክብ ነቲ SwissCovid ኤፕ ይውስኾ። ምስዚ ኣገባብ‘ዚ ፖዚቲቭ እንተ ደኣ ተመርሚርኩም፣ ጥራይ ቀረባ ርክባት ዘይኮነ ዋላ ውን ኣብ ማዕረ ግዜን ማዕረ ቦታን ኣትዮም ዝነበርይ ሰባት ከተጠንቅቕዎም ትኽእሉ።"</string>
+    <string name="checkin_footer_subtitle1">"ናይ ቸክ-ኢን ኣገባብ ብዘይ ምሓዝ ሓበሬታ ርክብ ነቲ LibreCHovid ኤፕ ይውስኾ። ምስዚ ኣገባብ‘ዚ ፖዚቲቭ እንተ ደኣ ተመርሚርኩም፣ ጥራይ ቀረባ ርክባት ዘይኮነ ዋላ ውን ኣብ ማዕረ ግዜን ማዕረ ቦታን ኣትዮም ዝነበርይ ሰባት ከተጠንቅቕዎም ትኽእሉ።"</string>
     <string name="checkin_footer_title2">"ማእከላዊ ዕቃበ ዳታ የለን"</string>
-    <string name="checkin_footer_subtitle2">"ነቲ ናይ SwissCovid-ቸክ-ኢን ግላዊ ዳታ ከም ስም፣ ኣድራሻ ወይ ቁጽሪ ተሌፎን ክወሃብ ኣየድልን ከምኡ‘ውን ናይ GPS ሓበሬታ ቦታ ውን ኣይክተሓዝን እዩ። ዝርዝር ቸክ-ኢን ብዘይ ኢንተርነት ኣብ ሞባይልኩም ክዕቀብ እዩ። ድሕሪ 14 መዓልትታት እቶም ኣብ ሞባይልኩም ዘሎ ሓበሬታ ክድምሰስ እዩ።"</string>
+    <string name="checkin_footer_subtitle2">"ነቲ ናይ LibreCHovid-ቸክ-ኢን ግላዊ ዳታ ከም ስም፣ ኣድራሻ ወይ ቁጽሪ ተሌፎን ክወሃብ ኣየድልን ከምኡ‘ውን ናይ GPS ሓበሬታ ቦታ ውን ኣይክተሓዝን እዩ። ዝርዝር ቸክ-ኢን ብዘይ ኢንተርነት ኣብ ሞባይልኩም ክዕቀብ እዩ። ድሕሪ 14 መዓልትታት እቶም ኣብ ሞባይልኩም ዘሎ ሓበሬታ ክድምሰስ እዩ።"</string>
     <string name="events_empty_state_title">"ኮድ QR ፈጥሩ"</string>
-    <string name="events_empty_state_subtitle">"ምስ ሓደ SwissCovid-QR-ኮድ ሰባት ኣብቲ ቦታ ሓበሬታኦም ብዘይምግዳፍ ቸክ-ኢን ክገብሩ ይኽእሉ።"</string>
+    <string name="events_empty_state_subtitle">"ምስ ሓደ LibreCHovid-QR-ኮድ ሰባት ኣብቲ ቦታ ሓበሬታኦም ብዘይምግዳፍ ቸክ-ኢን ክገብሩ ይኽእሉ።"</string>
     <string name="events_info_box_title">"ነቲ ግድነታዊ ምልዓል ዳታ ርክብ መተካእታ የለን"</string>
-    <string name="events_info_box_text">"ቸክ-ኢን SwissCovid መተካእታ ንኣብ «ኮቪድ-19-መትከል ፍሉይ ኩነት» ዝተኣዘዘ ግዴታ ምልዓል ዳታ ርክብ ኣይኮነን።"</string>
+    <string name="events_info_box_text">"ቸክ-ኢን LibreCHovid መተካእታ ንኣብ «ኮቪድ-19-መትከል ፍሉይ ኩነት» ዝተኣዘዘ ግዴታ ምልዓል ዳታ ርክብ ኣይኮነን።"</string>
     <string name="events_footer_title1">"እዚኦም Check-ins ኣበይ ክጥቀሙ ይከኣሉ፧"</string>
     <string name="events_footer_title2">"ስለምንታይ ናይ ቸክ-ኢን ኣገባብ፧"</string>
     <string name="events_footer_subtitle1">"ኣብ ሰብ ዝራኸቡ ቦታ እቲ ስዊዝ ቸክ-ኢን ውን ክጥቐም ይኽእል፣ ግና ግዴታ ናይ ምልዓል ዳታ ርክብ የለን።
@@ -1655,7 +1655,7 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
 – ግላውያን ፍጻሜታት
 – ፍጻሜታት ማሕበር
 – ኣኼባታት ኣብ ሞያዊ ከባቢ ከም ንኣ. ክፍሊ ዋዕላ፣ ክፍሊ ቤትጽሕፈት፣ ካንቲናታት፣ ወዘተ"</string>
-    <string name="events_footer_subtitle2">"ናይ ቸክ-ኢን ኣገባብ ብዘይ ምሓዝ ሓበሬታ ርክብ ነቲ SwissCovid ኤፕ ይውስኾ። ምስዚ ኣገባብ‘ዚ ፖዚቲቭ እንተ ደኣ ተመርሚርኩም፣ ጥራይ ቀረባ ርክባት ዘይኮነ ዋላ ውን ኣብ ማዕረ ግዜን ማዕረ ቦታን ኣትዮም ዝነበርይ ሰባት ከተጠንቅቕዎም ትኽእሉ።"</string>
+    <string name="events_footer_subtitle2">"ናይ ቸክ-ኢን ኣገባብ ብዘይ ምሓዝ ሓበሬታ ርክብ ነቲ LibreCHovid ኤፕ ይውስኾ። ምስዚ ኣገባብ‘ዚ ፖዚቲቭ እንተ ደኣ ተመርሚርኩም፣ ጥራይ ቀረባ ርክባት ዘይኮነ ዋላ ውን ኣብ ማዕረ ግዜን ማዕረ ቦታን ኣትዮም ዝነበርይ ሰባት ከተጠንቅቕዎም ትኽእሉ።"</string>
 
     <!-- Subtitle vom Meldungen Card in der Liste aller Meldungen. -->
     <string name="meldung_detail_exposed_list_card_subtitle">"ኩነት ርከሳ"</string>
@@ -1708,9 +1708,9 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <string name="inform_share_checkins_not_send_button">"ዋላሓደ ዘይምክፋል"</string>
     <string name="onboarding_checkin_title">"ምእታው ብዘይ ምግዳፍ ሓበሬታ/ዳታ"</string>
     <string name="onboarding_checkin_heading">"Check-ins"</string>
-    <string name="onboarding_checkin_text1">"ምስቲ SwissCovid-ቸክ-ኢን ምስቲ ኤፕ ኣብ ሓደ ቦታ ወይ ኣብ ሓደ ምርኽኻብ ክትኣትዉ ትኽእሉ ኢኹም።"</string>
+    <string name="onboarding_checkin_text1">"ምስቲ LibreCHovid-ቸክ-ኢን ምስቲ ኤፕ ኣብ ሓደ ቦታ ወይ ኣብ ሓደ ምርኽኻብ ክትኣትዉ ትኽእሉ ኢኹም።"</string>
     <string name="onboarding_checkin_text2">"ህላወኹም ጥራይ ኣብቲ ኤፕ እዩ ዝዕቀብ። ዝኾነ ግላዊ ሓበሬታ ኣብቲ ኤፕ ክትገድፉ ኣየድልየኩምን።"</string>
-    <string name="checkin_updateboarding_text">"ምስቲ SwissCovid-ቸክ-ኢን ምስቲ ኤፕ ኣብ ሓደ ቦታ ወይ ኣብ ሓደ ምርኽኻብ ክትኣትዉ ትኽእሉ ኢኹም። ህላወኹም ጥራይ ኣብቲ ኤፕ እዩ ዝዕቀብ። ዝኾነ ግላዊ ሓበሬታ ኣብቲ ኤፕ ክትገድፉ ኣየድልየኩምን። ሽዑ እቶም ናይ ኣጠቓቕማ ኩነታት ከምኡ'ውን ስምምዕ ምክልኻል ዳታ ክሕደሱ እዮም።"</string>
+    <string name="checkin_updateboarding_text">"ምስቲ LibreCHovid-ቸክ-ኢን ምስቲ ኤፕ ኣብ ሓደ ቦታ ወይ ኣብ ሓደ ምርኽኻብ ክትኣትዉ ትኽእሉ ኢኹም። ህላወኹም ጥራይ ኣብቲ ኤፕ እዩ ዝዕቀብ። ዝኾነ ግላዊ ሓበሬታ ኣብቲ ኤፕ ክትገድፉ ኣየድልየኩምን። ሽዑ እቶም ናይ ኣጠቓቕማ ኩነታት ከምኡ'ውን ስምምዕ ምክልኻል ዳታ ክሕደሱ እዮም።"</string>
     <string name="onboarding_gaen_button_dont_activate">"ገዲፍካ ምቕጻል"</string>
 
     <!-- Hide from diary warning text -->
@@ -1756,11 +1756,11 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <!-- Popup Beschreibung wenn beim Checkout oder Editieren von CheckIns die Checkin-Zeit nach der Checkout-Zeit liegt -->
     <string name="checkout_inverse_time_alert_description">"ዝመረጽኩም ቸክ-ኣውት ግዜ ቅድሚ ቸክ-ኢን ግዜ እዩ ዘሎ። እቲ ዝሃብኩም ሓበሬታ እንደገና ተቈጻጸሩ ብኽብረትኩም።"</string>
 
-    <!-- Titel für die Notification die SwissCovid 2.0 ankündigt -->
+    <!-- Titel für die Notification die LibreCHovid 2.0 ankündigt -->
     <string name="update_notification_checkin_feature_title">"ሓድሽ ኣገባብ፥ ቸክ-ኢን"</string>
 
-    <!-- Text für die Notification die SwissCovid 2.0 ankündigt -->
-    <string name="update_notification_checkin_feature_text">"ናይ ምጥቓም SwissCovid ነመስግነኩም። በቲ ሓድሽ ቨርዝዮን ኤፕ ዝኾነ ሓበሬታ ከይገደፍኩም ኣብቲ ቦታ ቸክ-ኢን/ክትኣትዉ ትኽእሉ።"</string>
+    <!-- Text für die Notification die LibreCHovid 2.0 ankündigt -->
+    <string name="update_notification_checkin_feature_text">"ናይ ምጥቓም LibreCHovid ነመስግነኩም። በቲ ሓድሽ ቨርዝዮን ኤፕ ዝኾነ ሓበሬታ ከይገደፍኩም ኣብቲ ቦታ ቸክ-ኢን/ክትኣትዉ ትኽእሉ።"</string>
 
     <!-- Titel für aktuellen Check-in im Tagebuch -->
     <string name="diary_current_title">"ሕጂ"</string>
@@ -1777,7 +1777,7 @@ SwissCovid ነቶም ኣብቶም ተቓደውቲ ሃገራት ዝተዘርገ�
     <!-- Notification Quickaction um jetzt auszuchecken -->
     <string name="ios_notification_checkout_now">"ሕጂ ቸክ-ኣውት/ምውጻእ"</string>
 
-    <!-- Hinweis falls fälschlicherweise ein Covid-Zertifikat mit SwissCovid gescannt wird. -->
+    <!-- Hinweis falls fälschlicherweise ein Covid-Zertifikat mit LibreCHovid gescannt wird. -->
     <string name="covid_certificate_alert_text">"ነዚ QR-ኮድ ስኬን ንክትገብርዎ እቲ \"COVID Certificate\" ዝብሃል ኤፕ ተጠቐምሉ ብኽብረትኩም።"</string>
 
     <!-- Button um Covid Certificate App zu öffnen -->

@@ -2,10 +2,10 @@
 <resources>
 
     <!-- App Name -->
-    <string name="app_name">"SwissCovid"</string>
+    <string name="app_name">"LibreCHovid"</string>
 
     <!-- App Name (unter Icon auf iOS) -->
-    <string name="CFBundleDisplayName">"SwissCovid"</string>
+    <string name="CFBundleDisplayName">"LibreCHovid"</string>
 
     <!-- Loading View: Erneut laden -->
     <string name="loading_view_reload">"Recharger"</string>
@@ -292,7 +292,7 @@ Ainsi, vous contribuez à interrompre les chaînes de transmission."</string>
     <string name="meldungen_detail_call">"Appelez-nous"</string>
 
     <!-- Meldungen Detail Text Weisse Box -->
-    <string name="meldungen_detail_call_text">"Infoline SwissCovid"</string>
+    <string name="meldungen_detail_call_text">"Infoline LibreCHovid"</string>
 
     <!-- Meldungen Detail Weisse Box Button -->
     <string name="meldungen_detail_call_button">"Appelez maintenant"</string>
@@ -307,7 +307,7 @@ Ainsi, vous contribuez à interrompre les chaînes de transmission."</string>
     <string name="meldungen_detail_explanation_text2">"Protégez votre famille, vos amis et votre entourage. Évitez les contacts jusqu'à 10 jours suivant une possible infection."</string>
 
     <!-- Meldungen Detail: Weisse Box Text -->
-    <string name="meldungen_detail_guard_text">"En cas de questions, appelez l'infoline SwissCovid au +41 58 387 77 78"</string>
+    <string name="meldungen_detail_guard_text">"En cas de questions, appelez l'infoline LibreCHovid au +41 58 387 77 78"</string>
 
     <!-- Meldungen Detail Button Weisse Box -->
     <string name="meldungen_detail_call_again_button">"Rappeler"</string>
@@ -325,7 +325,7 @@ Ainsi, vous contribuez à interrompre les chaînes de transmission."</string>
     <string name="onboarding_prinzip_title">"Gardons une longueur d'avance sur le virus"</string>
 
     <!-- Onboarding Prinzip Text -->
-    <string name="onboarding_prinzip_text1">"Grâce à l'application SwissCovid, tout le monde peut contribuer à endiguer la propagation du virus."</string>
+    <string name="onboarding_prinzip_text1">"Grâce à l'application LibreCHovid, tout le monde peut contribuer à endiguer la propagation du virus."</string>
 
     <!-- Onboarding Prinzip Text -->
     <string name="onboarding_prinzip_text2">"L’application vous avertit en cas d’exposition possible au coronavirus."</string>
@@ -588,7 +588,7 @@ Ces identifiants sont enregistrés localement dans les appareils et effacés apr
 Un message s’affichera sur l’écran de verrouillage pour vous informer d’une possible infection."</string>
 
     <!-- Meldungen Detail Weisse Box Texte Unten -->
-    <string name="meldungen_detail_explanation_text3">"L'infoline SwissCovid vous conseille sur la possibilité d'effectuer un test gratuit."</string>
+    <string name="meldungen_detail_explanation_text3">"L'infoline LibreCHovid vous conseille sur la possibilité d'effectuer un test gratuit."</string>
 
     <!-- Meldungen: Meldungen FAQ -->
     <string name="meldungen_meldungen_faq1_title">"Dois-je appeler ?"</string>
@@ -626,7 +626,7 @@ Ceci permet de garantir que seuls les cas confirmés sont déclarés dans l'appl
     <!-- Inform Detail FAQ Text -->
     <string name="inform_detail_faq2_text">"Seules les clés privées de votre application et les identifiants codés de vos check-ins sont transmises, aucune donnée personnelle.
 
-Ainsi, d’autres utilisateurs de l’application SwissCovid apprennent qu’il y a un risque d’infection.
+Ainsi, d’autres utilisateurs de l’application LibreCHovid apprennent qu’il y a un risque d’infection.
 "</string>
 
     <!-- Telefonnummer der Infoline -->
@@ -676,7 +676,7 @@ Les symptômes suivants peuvent aussi apparaître :
     <string name="language_key">"fr"</string>
 
     <!-- Meldungen Homescreen: Name Hotline -->
-    <string name="exposed_info_contact_hotline_name">"Infoline SwissCovid"</string>
+    <string name="exposed_info_contact_hotline_name">"Infoline LibreCHovid"</string>
 
     <!-- Meldung Detail: "Noch 1 Tag" Label -->
     <string name="date_in_one_day">"encore 1 jour"</string>
@@ -769,7 +769,7 @@ Les symptômes suivants peuvent aussi apparaître :
     <string name="tracing_permission_error_text_ios">"Il faut activer {TRACING_SETTING_TEXT} pour que le traçage anonyme fonctionne."</string>
 
     <!-- Error-Meldung, wenn der Benutzer während des Informieren-Flows bei GApple das Key-Sharing nicht erlaubt. -->
-    <string name="user_cancelled_key_sharing_error">"Le message n'a pas pu être envoyé. Veuillez autoriser le partage de vos IDs aléatoires avec l'application SwissCovid."</string>
+    <string name="user_cancelled_key_sharing_error">"Le message n'a pas pu être envoyé. Veuillez autoriser le partage de vos IDs aléatoires avec l'application LibreCHovid."</string>
 
     <!-- Button um die Google Play Services zu aktualisieren -->
     <string name="playservices_update">"Mettre à jour"</string>
@@ -807,10 +807,10 @@ Si aucune mise à jour n'est actuellement disponible sur votre appareil, veuille
     <string name="synchronizations_view_info_answer">"L'application vérifie régulièrement les ID aléatoires publiées par les utilisateurs testés positifs."</string>
     <string name="synchronizations_view_period_title">"Ces 14 derniers jours"</string>
     <string name="synchronizations_view_empty_list">"Aucune entrée"</string>
-    <string name="tracing_active_tracking_always_info">"SwissCovid reste active, même lorsque l'application est fermée."</string>
+    <string name="tracing_active_tracking_always_info">"LibreCHovid reste active, même lorsque l'application est fermée."</string>
 
     <!-- title in splash screen of onboarding -->
-    <string name="oboarding_splashscreen_title">"SwissCovid – information rapide en cas de risque d’infection."</string>
+    <string name="oboarding_splashscreen_title">"LibreCHovid – information rapide en cas de risque d’infection."</string>
     <string name="inform_detail_faq3_text">"Même si aucune donnée personnelle n’est transmise à votre sujet, il se peut que, grâce à la date, un utilisateur se souvienne du contact."</string>
     <string name="inform_detail_faq3_title">"Est-ce que je reste anonyme ?"</string>
 
@@ -824,7 +824,7 @@ Si aucune mise à jour n'est actuellement disponible sur votre appareil, veuille
     <string name="onboarding_gaen_text_android">"Pour que l’application puisse détecter des contacts, la fonction de traçage doit être activée."</string>
 
     <!-- Onboarding Disclaimer Screen: AppName Title -->
-    <string name="onboarding_disclaimer_heading">"SwissCovid"</string>
+    <string name="onboarding_disclaimer_heading">"LibreCHovid"</string>
 
     <!-- Onboarding Disclaimer Screen: Title -->
     <string name="onboarding_disclaimer_title">"Indications d'utilisation"</string>
@@ -844,7 +844,7 @@ Schwarzenburgstrasse 157
 3097 Liebefeld, Suisse"</string>
 
     <!-- Onboarding Disclaimer Screen: App version title -->
-    <string name="onboarding_disclaimer_app_version">"SwissCovid App Version"</string>
+    <string name="onboarding_disclaimer_app_version">"LibreCHovid App Version"</string>
 
     <!-- Onboarding Disclaimer Screen: Release version title -->
     <string name="onboarding_disclaimer_release_version">"Release Date:"</string>
@@ -881,7 +881,7 @@ Schwarzenburgstrasse 157
 
     <!-- Meldungen Detail Kostenloser Test Box Text -->
     <!-- Fuzzy -->
-    <string name="meldungen_detail_free_test_text_old">"Le guide SwissCovid vous informe sur la possibilité de vous faire tester gratuitement au coronavirus. "</string>
+    <string name="meldungen_detail_free_test_text_old">"Le guide LibreCHovid vous informe sur la possibilité de vous faire tester gratuitement au coronavirus. "</string>
 
     <!-- Button title on the Home Screen when the Tracing is deactivated to directly activate it. -->
     <string name="activate_tracing_button">"Activer le traçage"</string>
@@ -914,7 +914,7 @@ Schwarzenburgstrasse 157
     <string name="travel_title">"Voyages"</string>
 
     <!-- Info text that is displayed  on the Home Travel Card. -->
-    <string name="travel_home_description">"SwissCovid fonctionne dans les pays suivants :"</string>
+    <string name="travel_home_description">"LibreCHovid fonctionne dans les pays suivants :"</string>
 
     <!-- First title for the travel feauter explenation at the bottom of the travel screen. -->
     <string name="travel_screen_explanation_title_1">"Qu'est-ce que cela signifie ?"</string>
@@ -922,7 +922,7 @@ Schwarzenburgstrasse 157
     <!-- First text for the travel feauter explenation at the bottom of the travel screen. -->
     <string name="travel_screen_explanation_text_1">"Si vous voyagez dans un des pays compatibles, vous n'avez pas besoin d'installer une autre application pour les contacts. 
 
-SwissCovid vérifie les clés privées publiées dans les pays compatibles. Ainsi, vous serez averti d'une infection possible à l'étranger également."</string>
+LibreCHovid vérifie les clés privées publiées dans les pays compatibles. Ainsi, vous serez averti d'une infection possible à l'étranger également."</string>
 
     <!-- Second title for the travel feauter explenation at the bottom of the travel screen. -->
     <string name="travel_screen_explanation_title_2">"Que se passe-t-il quand je saisis le code COVID ?"</string>
@@ -947,19 +947,19 @@ d'ouvrir un site internet."</string>
 
     <!-- Text beim Bluetooth Control iOS 14 -->
     <string name="tracing_setting_text_ios_14_0">"Notifications d’exposition"</string>
-    <string name="bottom_nav_tab_home">"SwissCovid"</string>
+    <string name="bottom_nav_tab_home">"LibreCHovid"</string>
     <string name="bottom_nav_tab_stats">"Chiffres"</string>
-    <string name="stats_title">"utilisent déjà SwissCovid"</string>
+    <string name="stats_title">"utilisent déjà LibreCHovid"</string>
     <string name="stats_legend_new_infections">"Nouvelles infections déclarées"</string>
     <string name="stats_legend_new_infections_average">"Vue sur 7 jours"</string>
     <string name="stats_legend_entered_covidcodes">"Codes COVID saisis"</string>
     <string name="share_app_supertitle">"Ensemble…"</string>
     <string name="share_app_title">"empêcher les contaminations"</string>
     <string name="share_app_button">"Partager l'application"</string>
-    <string name="share_app_body">"Si de nombreuses personnes utilisent l'application SwissCovid autour de vous, vous pourrez être alerté rapidement lors d'un risque d'infection."</string>
+    <string name="share_app_body">"Si de nombreuses personnes utilisent l'application LibreCHovid autour de vous, vous pourrez être alerté rapidement lors d'un risque d'infection."</string>
 
     <!-- Text der geteilt wird -->
-    <string name="share_app_message">"Grâce à l'application SwissCovid, tout le monde peut contribuer à endiguer la propagation du virus."</string>
+    <string name="share_app_message">"Grâce à l'application LibreCHovid, tout le monde peut contribuer à endiguer la propagation du virus."</string>
 
     <!-- URL die geteilt wird -->
     <string name="share_app_url">"https://ofsp-coronavirus.ch/application-swisscovid/#download"</string>
@@ -1004,7 +1004,7 @@ d'ouvrir un site internet."</string>
     <string name="ios_settings_tutorial_step_3_share_exposure_information">"Partager les informations relatives aux expositions"</string>
 
     <!-- iOS settings tutorial schritt 4 -->
-    <string name="ios_settings_tutorial_step_4_text">"Si ce n'est pas déjà fait, choisissez SwissCovid comme région active."</string>
+    <string name="ios_settings_tutorial_step_4_text">"Si ce n'est pas déjà fait, choisissez LibreCHovid comme région active."</string>
 
     <!-- iOS settings tutorial set as aktive region wie in iOS settings -->
     <string name="ios_settings_tutorial_step_4_set_as_aktive_region">"Définir comme région active"</string>
@@ -1024,37 +1024,37 @@ d'ouvrir un site internet."</string>
     <!-- Button Titel im Meldung Detail Header, wenn alle Meldungen angezeigt werden. -->
     <string name="meldung_detail_exposed_show_less_button">"Affichage réduit"</string>
 
-    <!-- Titel vom SwissCovid Leitfaden bei Kontaktmeldung -->
-    <string name="meldungen_detail_leitfaden_title">"Guide SwissCovid"</string>
+    <!-- Titel vom LibreCHovid Leitfaden bei Kontaktmeldung -->
+    <string name="meldungen_detail_leitfaden_title">"Guide LibreCHovid"</string>
 
-    <!-- Text zum SwissCovid Leitfaden bei Kontaktmeldung -->
-    <string name="meldungen_detail_leitfaden_text">"Répondez aux questions posées dans le guide SwissCovid pour savoir comment réagir."</string>
+    <!-- Text zum LibreCHovid Leitfaden bei Kontaktmeldung -->
+    <string name="meldungen_detail_leitfaden_text">"Répondez aux questions posées dans le guide LibreCHovid pour savoir comment réagir."</string>
 
-    <!-- Button Text zum Öffnen vom SwissCovid Leitfaden -->
+    <!-- Button Text zum Öffnen vom LibreCHovid Leitfaden -->
     <string name="meldungen_detail_open_leitfaden_button">"Remplir maintenant"</string>
 
-    <!-- Title für Infotext zu SwissCovid Infoline -->
+    <!-- Title für Infotext zu LibreCHovid Infoline -->
     <string name="meldungen_tel_information_title">"Renseignements par téléphone"</string>
 
-    <!-- Infotext zu SwissCovid Infoline -->
-    <string name="meldungen_tel_information_text">"Pour plus de renseignements, vous pouvez aussi appeler l'infoline SwissCovid."</string>
+    <!-- Infotext zu LibreCHovid Infoline -->
+    <string name="meldungen_tel_information_text">"Pour plus de renseignements, vous pouvez aussi appeler l'infoline LibreCHovid."</string>
 
-    <!-- Hinweis Text nach dem Ausfüllen vom SwissCovid Leitfaden, dass man erneut ausfüllen kann -->
-    <string name="meldungen_detail_leitfaden_again_text">"Vous pouvez rouvrir le guide SwissCovid à tout moment grâce à ce bouton."</string>
+    <!-- Hinweis Text nach dem Ausfüllen vom LibreCHovid Leitfaden, dass man erneut ausfüllen kann -->
+    <string name="meldungen_detail_leitfaden_again_text">"Vous pouvez rouvrir le guide LibreCHovid à tout moment grâce à ce bouton."</string>
 
-    <!-- Button Text um SwissCovid Leitfaden erneut zu öffnen -->
+    <!-- Button Text um LibreCHovid Leitfaden erneut zu öffnen -->
     <string name="meldungen_detail_open_leitfaden_again_button">"Ouvrir le guide"</string>
 
-    <!-- Homescreen Text mit Hinweis zu SwissCovid Leitfaden bei einer Meldung -->
+    <!-- Homescreen Text mit Hinweis zu LibreCHovid Leitfaden bei einer Meldung -->
     <string name="exposed_info_answer_questions_in_leitfaden">"Répondez aux questions posées dans le"</string>
 
-    <!-- Homescreen Text mit Hinweis zu SwissCovid Leitfaden bei einer Meldung -->
-    <string name="exposed_info_swisscovid_leitfaden">"guide SwissCovid"</string>
+    <!-- Homescreen Text mit Hinweis zu LibreCHovid Leitfaden bei einer Meldung -->
+    <string name="exposed_info_swisscovid_leitfaden">"guide LibreCHovid"</string>
 
     <!-- Dialog Text beim Löschen einer Meldung über einen möglichen Kontakt -->
-    <string name="delete_notification_dialog">"La notification d'une possible infection constitue une preuve dont vous avez besoin pour bénéficier d'un test gratuit au coronavirus. Si vous l'effacez, vous perdez cette preuve ainsi que le lien vers le guide SwissCovid."</string>
+    <string name="delete_notification_dialog">"La notification d'une possible infection constitue une preuve dont vous avez besoin pour bénéficier d'un test gratuit au coronavirus. Si vous l'effacez, vous perdez cette preuve ainsi que le lien vers le guide LibreCHovid."</string>
 
-    <!-- URL to the SwissCovid Leitfaden -->
+    <!-- URL to the LibreCHovid Leitfaden -->
     <string name="swisscovid_leitfaden_url">"https://swisscovid.ofsp-coronavirus.ch/screening?contactDates={CONTACT_DATES}"</string>
 
     <!-- Tracing Erinnerung 4 Stunden Radio Button -->
@@ -1079,7 +1079,7 @@ d'ouvrir un site internet."</string>
     <string name="tracing_reminder_title">"Mettre un rappel"</string>
 
     <!-- Tracing Erinnerung Untertitel -->
-    <string name="tracing_reminder_subtitle">"SwissCovid peut vous rappeler de réactiver le traçage."</string>
+    <string name="tracing_reminder_subtitle">"LibreCHovid peut vous rappeler de réactiver le traçage."</string>
 
     <!-- Tracing Erinnerung Warnung -->
     <string name="tracing_reminder_warning">"Le traçage est désactivé."</string>
@@ -1210,7 +1210,7 @@ d'ouvrir un site internet."</string>
     <string name="ios_software_update_blocking_title">"Mise à jour requise"</string>
 
     <!-- iOS Blockierende View bei benötigten OS update: text -->
-    <string name="ios_software_update_blocking_text">"Vous devez installer la dernière version d'iOS pour que SwissCovid puisse fonctionner."</string>
+    <string name="ios_software_update_blocking_text">"Vous devez installer la dernière version d'iOS pour que LibreCHovid puisse fonctionner."</string>
 
     <!-- iOS Blockierende View bei benötigten OS update: Tutorial title -->
     <string name="ios_software_update_blocking_tutorial_title">"Voici comment faire :"</string>
@@ -1246,7 +1246,7 @@ d'ouvrir un site internet."</string>
     <string name="ios_software_update_notification_title">"Mise à jour requise"</string>
 
     <!-- iOS Notification Text bei benötigten OS update -->
-    <string name="ios_software_update_notification_text">"Vous devez installer la dernière version d'iOS pour que SwissCovid puisse fonctionner."</string>
+    <string name="ios_software_update_notification_text">"Vous devez installer la dernière version d'iOS pour que LibreCHovid puisse fonctionner."</string>
 
     <!-- Button Text um die Isolation zu beenden -->
     <string name="delete_infection_dialog_finish_button">"Terminer"</string>
@@ -1321,7 +1321,7 @@ Alors, envoyez un courriel à covid-support@medgate.ch"</string>
     <string name="stats_info_popup_subtitle_cases">"Nombre de cas"</string>
 
     <!-- Beschreibung der "Total eingegebene Covidcodes" Statistik -->
-    <string name="stats_covidcodes_total_description">"Nombre de codes COVID saisis depuis le commencement de SwissCovid en juin 2020. La chiffre répresente le nombre de personnes qui ont averti leurs contacts d'une éventuelle infection via l'application."</string>
+    <string name="stats_covidcodes_total_description">"Nombre de codes COVID saisis depuis le commencement de LibreCHovid en juin 2020. La chiffre répresente le nombre de personnes qui ont averti leurs contacts d'une éventuelle infection via l'application."</string>
 
     <!-- Beschreibung der "Innert 0-2 Tagen eingegebene Covidcodes" Statistik -->
     <string name="stats_covidcodes_0to2days_description">"Proportion de codes COVID saisis au cours des deux premiers jours après l'apparition des symptômes. Ce chiffre couvre les 7 derniers jours. 
@@ -1360,7 +1360,7 @@ Appelez :"</string>
     <string name="answer_no">"Non"</string>
 
     <!-- Text in der Infobox auf dem Reisen-Screen -->
-    <string name="travel_screen_info">"En voyage à l'étranger ? Les contacts SwissCovid fonctionnent dans ces pays."</string>
+    <string name="travel_screen_info">"En voyage à l'étranger ? Les contacts LibreCHovid fonctionnent dans ces pays."</string>
 
     <!-- Überschrift der Liste der kompatiblen Länder auf dem Reisen-Screen -->
     <string name="travel_screen_compatible_countries">"Pays compatibles :"</string>
@@ -1397,10 +1397,10 @@ Appelez :"</string>
     <string name="inform_tracing_enabled_explanation">"Le traçage doit être activé lors de la saisie d'un code COVID, afin que les clés privées puissent être envoyées."</string>
 
     <!-- Leitfaden Info Popup Text -->
-    <string name="leitfaden_infopopup_text">"En cliquant sur \"{BUTTON_TITLE}\", vous quitterez l'application et serez redirigé sur le site du guide SwissCovid. Les dates de vos derniers contacts avec des personnes potentiellement infectées seront alors transmises au site."</string>
+    <string name="leitfaden_infopopup_text">"En cliquant sur \"{BUTTON_TITLE}\", vous quitterez l'application et serez redirigé sur le site du guide LibreCHovid. Les dates de vos derniers contacts avec des personnes potentiellement infectées seront alors transmises au site."</string>
 
     <!-- Leitfaden InfoPopup Titel -->
-    <string name="leitfaden_infopopup_title">"Information Guide SwissCovid"</string>
+    <string name="leitfaden_infopopup_title">"Information Guide LibreCHovid"</string>
 
     <!-- Update Boarding: Titel -->
     <string name="germany_update_boarding_title">"Compatible avec l'Allemagne"</string>
@@ -1409,7 +1409,7 @@ Appelez :"</string>
     <string name="germany_update_boarding_text">"Vous serez également alerté si vous avez été en contact avec une personne qui utilise l'application allemande Corona-Warn-App et qui a été testée positive (et inversément). Les conditions d'utilisation et la déclaration concernant la protection des données ont été mises à jour."</string>
 
     <!-- Update Boarding: Heading oben -->
-    <string name="germany_update_boarding_heading">"Mise à jour SwissCovid"</string>
+    <string name="germany_update_boarding_heading">"Mise à jour LibreCHovid"</string>
 
     <!-- Debug Screen: Update-Boarding Reset Button -->
     <string name="reset_update_boarding">"Réinitialiser l'intégration"</string>
@@ -1526,10 +1526,10 @@ Appelez :"</string>
     <string name="empty_diary_title">"Il n'existe aucune donnée."</string>
 
     <!-- Check-Ins: Tagebuch leer, Text -->
-    <string name="empty_diary_text">"Si vous scannez un code QR SwissCovid pour vous connecter sur place, une donnée est automatiquement enregistrée."</string>
+    <string name="empty_diary_text">"Si vous scannez un code QR LibreCHovid pour vous connecter sur place, une donnée est automatiquement enregistrée."</string>
 
     <!-- Check-Ins: Kamera Erlaubnis Text -->
-    <string name="camera_permission_dialog_text">"SwissCovid doit avoir accès à l’appareil photo de votre smartphone. L’appareil photo est uniquement utilisé pour scanner les QR codes."</string>
+    <string name="camera_permission_dialog_text">"LibreCHovid doit avoir accès à l’appareil photo de votre smartphone. L’appareil photo est uniquement utilisé pour scanner les QR codes."</string>
 
     <!-- Check-Ins: Button Titel, welcher in einem Popup erscheint um die Camera Permission Abfrage zu erklären -->
     <string name="camera_permission_dialog_action">"Autoriser l’accès à l’appareil photo"</string>
@@ -1573,10 +1573,10 @@ Appelez :"</string>
     <string name="checkin_ended_text">"Pas de check-in possible actuellement"</string>
 
     <!-- Text im Check-Ins-Screen im nicht eingecheckten Zustand -->
-    <string name="checkin_detail_checked_out_text">"Scannez un QR code SwissCovid pour vous connecter sur place."</string>
+    <string name="checkin_detail_checked_out_text">"Scannez un QR code LibreCHovid pour vous connecter sur place."</string>
 
     <!-- Text im Check-Ins-Screen, im Tagebuch-Modul -->
-    <string name="checkin_detail_diary_text">"Si vous scannez un code QR SwissCovid pour vous connecter sur place, une donnée est automatiquement enregistrée."</string>
+    <string name="checkin_detail_diary_text">"Si vous scannez un code QR LibreCHovid pour vous connecter sur place, une donnée est automatiquement enregistrée."</string>
 
     <!-- Label im Checkin-Modul im eingecheckten Zustand -->
     <string name="checkin_checked_in">"Check-in effectué"</string>
@@ -1596,7 +1596,7 @@ Appelez :"</string>
     <string name="print_button_title">"Imprimer"</string>
 
     <!-- Check-Ins: Beschreibung Modul auf Homescreen -->
-    <string name="module_checkins_description">"Scannez un QR code SwissCovid pour vous connecter sur place."</string>
+    <string name="module_checkins_description">"Scannez un QR code LibreCHovid pour vous connecter sur place."</string>
 
     <!-- Titel im "Covidcode flow", wo man check ins wählen kann, welche geshared werden sollen. -->
     <string name="inform_share_checkins_title">"Partager les données de check-ins"</string>
@@ -1609,7 +1609,7 @@ Appelez :"</string>
     <string name="inform_dont_send_button_title">"Ne pas transmettre"</string>
     <string name="inform_dont_share_button_title">"Ne pas partager"</string>
     <string name="inform_really_not_share_title">"Ne voulez-vous vraiment pas partager les données ?"</string>
-    <string name="inform_really_not_share_subtitle">"Le partage des clés privées permet à SwissCovid de notifier des personnes ayant pu s’infecter et de freiner ainsi la propagation du virus. Si vous ne partagez pas vos clés privées, des personnes ayant potentiellement été infectées ne peuvent pas être averties."</string>
+    <string name="inform_really_not_share_subtitle">"Le partage des clés privées permet à LibreCHovid de notifier des personnes ayant pu s’infecter et de freiner ainsi la propagation du virus. Si vous ne partagez pas vos clés privées, des personnes ayant potentiellement été infectées ne peuvent pas être averties."</string>
 
     <!-- Remove from Diary Warning view title -->
     <string name="remove_diary_warning_title">"Effacer la donnée enregistrée"</string>
@@ -1636,7 +1636,7 @@ Appelez :"</string>
     <string name="checkin_overview_isolation_text">"Vous ne pouvez plus vous connecter après un test positif."</string>
 
     <!-- Veranstaltungen-Card Text im Infotab -->
-    <string name="events_card_subtitle">"Créez un code QR SwissCovid permettant aux utilisateurs de se connecter sur place."</string>
+    <string name="events_card_subtitle">"Créez un code QR LibreCHovid permettant aux utilisateurs de se connecter sur place."</string>
 
     <!-- Dialog Text beim Löschen eines erstellten QR Codes. -->
     <string name="delete_qr_code_dialog">"Souhaitez-vous vraiment supprimer le QR code? Les codes QR imprimés restent valides."</string>
@@ -1645,7 +1645,7 @@ Appelez :"</string>
     <string name="self_checkin_button_title">"Auto-check-in"</string>
 
     <!-- Text, welcher im Checkin-Overview Screen erscheint, wenn der Benutzer nicht eingecheckt ist. -->
-    <string name="checkin_overview_checkins_explanation">"Scannez un QR code SwissCovid pour vous connecter sur place."</string>
+    <string name="checkin_overview_checkins_explanation">"Scannez un QR code LibreCHovid pour vous connecter sur place."</string>
 
     <!-- Popup Titel wenn beim Checkout oder Editieren von CheckIns sich die neu gewählte Zeit mit vorhandenen aus dem Tagebuch überschneidet -->
     <string name="checkout_overlapping_alert_title">"Sauvegarde impossible"</string>
@@ -1656,19 +1656,19 @@ Appelez :"</string>
     <!-- Informieren: Danke Text Checkins Teil -->
     <string name="inform_send_thankyou_text_checkins">"Les données de check-in sélectionnées ont été transmises. Toutes les personnes qui étaient connectées au même endroit à la même heure seront notifiées."</string>
 
-    <!-- SwissCovid QR Code PDF: Headline über dem Slogan -->
-    <string name="pdf_headline">"SwissCovid Check-in"</string>
+    <!-- LibreCHovid QR Code PDF: Headline über dem Slogan -->
+    <string name="pdf_headline">"LibreCHovid Check-in"</string>
 
-    <!-- SwissCovid QR Code PDF: Slogan -->
+    <!-- LibreCHovid QR Code PDF: Slogan -->
     <string name="pdf_slogan">"Se connecter sans enregistrer de données"</string>
 
-    <!-- SwissCovid QR Code PDF: Erklärungstext unter dem Slogan -->
-    <string name="pdf_explanation">"Avec l’application SwissCovid, vous pouvez facilement vous connecter, sans enregistrer vos données. L’application vous informera rapidement d’un éventuel risque d’infection."</string>
+    <!-- LibreCHovid QR Code PDF: Erklärungstext unter dem Slogan -->
+    <string name="pdf_explanation">"Avec l’application LibreCHovid, vous pouvez facilement vous connecter, sans enregistrer vos données. L’application vous informera rapidement d’un éventuel risque d’infection."</string>
 
-    <!-- SwissCovid QR Code PDF: App Bezeichnung neben dem App Icon -->
-    <string name="pdf_swisscovid_app">"Application SwissCovid"</string>
+    <!-- LibreCHovid QR Code PDF: App Bezeichnung neben dem App Icon -->
+    <string name="pdf_swisscovid_app">"Application LibreCHovid"</string>
 
-    <!-- SwissCovid QR Code PDF: Download Hinweis neben dem App Icon -->
+    <!-- LibreCHovid QR Code PDF: Download Hinweis neben dem App Icon -->
     <string name="pdf_download_app">"Télécharger"</string>
 
     <!-- Title im Check-Ins-Screen im nicht eingecheckten Zustand -->
@@ -1683,17 +1683,17 @@ Appelez :"</string>
     <!-- Titel auf der Card, welche zum Screen führt, wo man eigene QR Codes erstellen kann. -->
     <string name="events_card_title">"Souhaitez-vous créer un code QR?"</string>
     <string name="checkin_footer_title1">"À quoi sert la fonction de check-in?"</string>
-    <string name="checkin_footer_subtitle1">"La fonction de check-in sans enregistrement des coordonnées complète l’application SwissCovid. En cas de test positif, elle vous permet d’avertir non seulement vos proches, mais aussi les personnes qui étaient présentes au même endroit au même moment."</string>
+    <string name="checkin_footer_subtitle1">"La fonction de check-in sans enregistrement des coordonnées complète l’application LibreCHovid. En cas de test positif, elle vous permet d’avertir non seulement vos proches, mais aussi les personnes qui étaient présentes au même endroit au même moment."</string>
     <string name="checkin_footer_title2">"Pas de sauvegarde centralisée des données"</string>
-    <string name="checkin_footer_subtitle2">"La fonction des SwissCovid check-ins ne nécessite pas la saisie de coordonnées comme le nom, l’adresse ou le numéro de téléphone et elle n’enregistre pas les données de géolocalisation. La liste des check-ins est enregistrée localement sur votre smartphone. Les données locales sont effacées après 14 jours."</string>
+    <string name="checkin_footer_subtitle2">"La fonction des LibreCHovid check-ins ne nécessite pas la saisie de coordonnées comme le nom, l’adresse ou le numéro de téléphone et elle n’enregistre pas les données de géolocalisation. La liste des check-ins est enregistrée localement sur votre smartphone. Les données locales sont effacées après 14 jours."</string>
     <string name="events_empty_state_title">"Créer un code QR"</string>
-    <string name="events_empty_state_subtitle">"Avec un code QR SwissCovid, il est possible de se connecter sur place sans devoir enregistrer ses données."</string>
+    <string name="events_empty_state_subtitle">"Avec un code QR LibreCHovid, il est possible de se connecter sur place sans devoir enregistrer ses données."</string>
     <string name="events_info_box_title">"Cette fonction ne remplace pas la collecte obligatoire des coordonnées."</string>
-    <string name="events_info_box_text">"Les check-ins SwissCovid ne remplacent pas la collecte des coordonnées prescrite par l’« ordonnance COVID-19 situation particulière »."</string>
+    <string name="events_info_box_text">"Les check-ins LibreCHovid ne remplacent pas la collecte des coordonnées prescrite par l’« ordonnance COVID-19 situation particulière »."</string>
     <string name="events_footer_title1">"Où la fonction de check-in peut-elle être utilisée?"</string>
     <string name="events_footer_title2">"À quoi sert la fonction de check-in?"</string>
-    <string name="events_footer_subtitle1">"La fonction de check-in SwissCovid sera utile lors de rencontres dans des lieux où la collecte des coordonnées n’est pas obligatoire. Il peut s’agir – de rencontres privées – d’événements organisés par des associations – de rassemblements dans le cadre professionnel, p. ex. salles de réunion, bureaux, cantines, etc."</string>
-    <string name="events_footer_subtitle2">"La fonction de check-in sans enregistrement des coordonnées complète l’application SwissCovid. En cas de test positif, elle vous permet d’avertir non seulement vos proches, mais aussi les personnes qui étaient présentes au même endroit au même moment."</string>
+    <string name="events_footer_subtitle1">"La fonction de check-in LibreCHovid sera utile lors de rencontres dans des lieux où la collecte des coordonnées n’est pas obligatoire. Il peut s’agir – de rencontres privées – d’événements organisés par des associations – de rassemblements dans le cadre professionnel, p. ex. salles de réunion, bureaux, cantines, etc."</string>
+    <string name="events_footer_subtitle2">"La fonction de check-in sans enregistrement des coordonnées complète l’application LibreCHovid. En cas de test positif, elle vous permet d’avertir non seulement vos proches, mais aussi les personnes qui étaient présentes au même endroit au même moment."</string>
 
     <!-- Subtitle vom Meldungen Card in der Liste aller Meldungen. -->
     <string name="meldung_detail_exposed_list_card_subtitle">"Situations à risque"</string>
@@ -1746,9 +1746,9 @@ Ce titre s’affichera lors du check-in."</string>
     <string name="inform_share_checkins_not_send_button">"Ne rien partager"</string>
     <string name="onboarding_checkin_title">"Se connecter sans enregistrer de données"</string>
     <string name="onboarding_checkin_heading">"Check-ins"</string>
-    <string name="onboarding_checkin_text1">"La fonction de SwissCovid check-in vous permet de vous connecter via l’application dans un lieu particulier ou lors d’une rencontre."</string>
+    <string name="onboarding_checkin_text1">"La fonction de LibreCHovid check-in vous permet de vous connecter via l’application dans un lieu particulier ou lors d’une rencontre."</string>
     <string name="onboarding_checkin_text2">"Votre présence est seulement enregistrée dans votre application. Il n’est pas nécessaire de saisir vos coordonnées dans l’application."</string>
-    <string name="checkin_updateboarding_text">"La fonction de SwissCovid check-in vous permet de vous connecter via l’application dans un lieu particulier ou lors d’une rencontre. Votre présence est seulement enregistrée dans votre application. Il n’est pas nécessaire de saisir vos coordonnées dans l’application. À cette fin, les conditions d’utilisation et la déclaration de protection des données ont été mises à jour."</string>
+    <string name="checkin_updateboarding_text">"La fonction de LibreCHovid check-in vous permet de vous connecter via l’application dans un lieu particulier ou lors d’une rencontre. Votre présence est seulement enregistrée dans votre application. Il n’est pas nécessaire de saisir vos coordonnées dans l’application. À cette fin, les conditions d’utilisation et la déclaration de protection des données ont été mises à jour."</string>
     <string name="onboarding_gaen_button_dont_activate">"Passer à l'étape suivante "</string>
 
     <!-- Hide from diary warning text -->
@@ -1794,11 +1794,11 @@ Ce titre s’affichera lors du check-in."</string>
     <!-- Popup Beschreibung wenn beim Checkout oder Editieren von CheckIns die Checkin-Zeit nach der Checkout-Zeit liegt -->
     <string name="checkout_inverse_time_alert_description">"L'heure de déconnexion est antérieure à l'heure de connexion. Veuillez vérifier les informations saisies."</string>
 
-    <!-- Titel für die Notification die SwissCovid 2.0 ankündigt -->
+    <!-- Titel für die Notification die LibreCHovid 2.0 ankündigt -->
     <string name="update_notification_checkin_feature_title">"Nouvelle fonction : connexion"</string>
 
-    <!-- Text für die Notification die SwissCovid 2.0 ankündigt -->
-    <string name="update_notification_checkin_feature_text">"Merci d'utiliser SwissCovid. La dernière version de l'application vous permet de vous connecter sur place de façon anonyme."</string>
+    <!-- Text für die Notification die LibreCHovid 2.0 ankündigt -->
+    <string name="update_notification_checkin_feature_text">"Merci d'utiliser LibreCHovid. La dernière version de l'application vous permet de vous connecter sur place de façon anonyme."</string>
 
     <!-- Titel für aktuellen Check-in im Tagebuch -->
     <string name="diary_current_title">"Actuellement"</string>
@@ -1815,7 +1815,7 @@ Ce titre s’affichera lors du check-in."</string>
     <!-- Notification Quickaction um jetzt auszuchecken -->
     <string name="ios_notification_checkout_now">"Se déconnecter maintenant"</string>
 
-    <!-- Hinweis falls fälschlicherweise ein Covid-Zertifikat mit SwissCovid gescannt wird. -->
+    <!-- Hinweis falls fälschlicherweise ein Covid-Zertifikat mit LibreCHovid gescannt wird. -->
     <string name="covid_certificate_alert_text">"Veuillez utiliser l'application COVID Certificate pour scanner ce code QR."</string>
 
     <!-- Button um Covid Certificate App zu öffnen -->
