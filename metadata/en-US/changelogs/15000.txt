@@ -1,0 +1,6 @@
+* Update microG to v0.2.19.211515
+* Update to SwissCovid 1.5.0:
+  * Compatibility with Germany.
+  * After entering a Covidcode: the app displays the period for which contacts will be notified.
+  * Test recommended 5 days after receiving an alert.
+  * Further optimisations and bug fixes.

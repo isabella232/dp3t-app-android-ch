@@ -1,0 +1,9 @@
+* Update to SwissCovid 2.0.1:
+ * SwissCovid check-in:
+   SwissCovid check-ins allow you to check in to a location or meeting with the app. In this way, you can be alerted if there is a risk of infection – regardless of the distance.
+   No data is stored centrally:
+   Your presence is only stored in the app.
+   You don't have to leave any personal data in the app.
+ * Offer check-ins:
+   Generate a QR code that people can use to check in on site.
+

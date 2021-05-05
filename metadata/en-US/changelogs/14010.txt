@@ -1,0 +1,4 @@
+* Update microG to v0.2.18.204714
+* Update to SwissCovid 1.4.1:
+  * Interoperability with Germany. You don’t have to install another app if you’re travelling on one of the compatible countries. SwissCovid checks private keys published in the compatible countries. This means that you can also receive alerts of possible infection abroad.
+  * Further optimisations and bug fixes.
