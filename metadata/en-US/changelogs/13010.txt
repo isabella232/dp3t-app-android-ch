@@ -1,0 +1,1 @@
+Initial release based on SwissCovid v1.3.1

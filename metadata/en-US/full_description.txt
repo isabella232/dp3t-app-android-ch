@@ -1,0 +1,6 @@
+LibreCHovid is a fork of the official <a href="https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/swisscovid-app-und-contact-tracing.html">SwissCovid</a> contact tracing app for Switzerland. It does not rely on the proprietary Google-Apple Exposure Notification framework, but uses instead the compatible microG free implementation. It will therefore run on devices without Google Mobile Services.
+
+The functionality of the application is the same as the original. However, as it does not have the privileges granted to GMS, its ability to run reliably in the background may be affected. Our internal tests have shown it to behave well on various systems, but your mileage may vary.
+
+Please note that this fork is <b>not supported by the Swiss authorities</b>.
+
