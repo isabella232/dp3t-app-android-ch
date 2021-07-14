@@ -41,7 +41,6 @@ import ch.admin.bag.dp3t.util.NotificationUtil
 import ch.admin.bag.dp3t.util.UrlUtil
 import ch.admin.bag.dp3t.viewmodel.TracingViewModel
 import ch.admin.bag.dp3t.whattodo.WtdPositiveTestFragment
-import com.google.android.gms.instantapps.InstantApps
 import org.crowdnotifier.android.sdk.CrowdNotifier
 import org.crowdnotifier.android.sdk.utils.QrUtils.*
 import org.dpppt.android.sdk.DP3T
@@ -104,10 +103,8 @@ class MainActivity : FragmentActivity() {
 		if (savedInstanceState == null) {
 			val onboardingCompleted = secureStorage.onboardingCompleted
 			val lastShownUpdateBoardingVersion = secureStorage.lastShownUpdateBoardingVersion
-			val instantAppQrCodeUrl = checkForInstantAppUrl()
 
 			val onboardingType = when {
-				instantAppQrCodeUrl != null -> OnboardingType.INSTANT_PART
 				!onboardingCompleted -> OnboardingType.NORMAL
 				lastShownUpdateBoardingVersion < UPDATE_BOARDING_VERSION -> OnboardingType.UPDATE_BOARDING
 				else -> null
@@ -116,7 +113,7 @@ class MainActivity : FragmentActivity() {
 			if (onboardingType == null) {
 				showHomeFragment()
 			} else {
-				launchOnboarding(onboardingType, instantAppQrCodeUrl)
+				launchOnboarding(onboardingType, null)
 			}
 		} else {
 			isIntentConsumed = savedInstanceState.getBoolean(KEY_IS_INTENT_CONSUMED)
@@ -143,18 +140,6 @@ class MainActivity : FragmentActivity() {
 		} else {
 			finish()
 		}
-	}
-
-	private fun checkForInstantAppUrl(): String? {
-		val pmc = InstantApps.getPackageManagerCompat(this)
-		val instantAppCookie = pmc.instantAppCookie
-		if (instantAppCookie != null && instantAppCookie.isNotEmpty()) {
-			// If there is an url in the instant app cookies, retun it and reset it to null
-			val url = String(instantAppCookie, StandardCharsets.UTF_8)
-			pmc.instantAppCookie = null
-			return url
-		}
-		return null
 	}
 
 	public override fun onSaveInstanceState(outState: Bundle) {

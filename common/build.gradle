@@ -67,6 +67,5 @@ dependencies {
 
 	implementation 'com.google.protobuf:protobuf-lite:3.0.1'
 	api 'org.crowdnotifier:crowdnotifier-sdk-android:4.0.0'
-	api 'com.google.android.gms:play-services-instantapps:17.0.0'
 
 }
